@@ -21,11 +21,11 @@
                         "dest":3001
                     },
                     {
-                        "path":"/vless",
+                        "path":"/vless-tcjiou",
                         "dest":3002
                     },
                     {
-                        "path":"/vmess",
+                        "path":"/vmess-resx",
                         "dest":3003
                     },
                     {
